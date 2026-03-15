@@ -1,0 +1,6 @@
+keras
+pillow
+numpy
+tensorflow
+matplotlib
+ollama
